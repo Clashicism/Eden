@@ -1,4 +1,4 @@
-# Gateway
+# Gatwick is forked from Gateway - that was inevitable
 
 [![Build Status](https://travis-ci.org/gatewaycash/gateway.png?branch=master)](https://travis-ci.org/gatewaycash/gateway)
 
