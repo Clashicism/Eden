@@ -1,5 +1,5 @@
-# Gatwick is forked from Gateway - that was inevitable
-
+#Eden is a fork of Gateway to be integrated for SLP to work with Spicebutton, BeCash and Atomic Eve
+ 
 [![Build Status](https://travis-ci.org/gatewaycash/gateway.png?branch=master)](https://travis-ci.org/gatewaycash/gateway)
 
 Simple Bitcoin Payments
