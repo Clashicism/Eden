@@ -1,4 +1,4 @@
-#Eden is a fork of Gateway to be integrated for SLP to work with Spicebutton, BeCash and Atomic Eve
+# Eden is a fork of Gateway to be integrated for SLP to work with Spicebutton, BeCash and Atomic Eve
  
 [![Build Status](https://travis-ci.org/gatewaycash/gateway.png?branch=master)](https://travis-ci.org/gatewaycash/gateway)
 
